@@ -116,6 +116,20 @@ Fangyu Lei, Xiang Li, **Yifan Wei**, Shizhu He, Yiming Huang, Jun Zhao, Kang Liu
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/mvge.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-View Graph Representation Learning for Answering Hybrid Numerical Reasoning Questions](https://arxiv.org/abs/2305.03458)
+
+**Yifan Wei**, Fangyu Lei, Yuanzhe Zhang, Jun Zhao, Kang Liu
+
+
+[[PDF]](https://arxiv.org/pdf/2305.03458)  [[ArXiv]](https://arxiv.org/abs/2305.03458) [[Code]](https://github.com/weiyifan1023/MVGE)
+
+</div>
+</div>
+
+
 # 🚀 Projects
 
 - [TableQAKit](https://github.com/lfy79001/TableQAKit): A Toolkit for Table-based Question Answering. ![GitHub stars](https://img.shields.io/github/stars/lfy79001/TableQAKit?style=social)
