@@ -17,13 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to Huanhuan Ma (Andy)'s Personal Homepage!
+Welcome to Yifan Wei (Eric)'s Personal Homepage!
 
-I am a master student at the [Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/) (expected to graduate in June 2024). Additionally, I am a member at the [Center for Research on Intelligent Perception and Computing (CRIPAC)](http://cripac.ia.ac.cn/en/EN/volumn/home.shtml), National Laboratory of Pattern Recognition (NLPR). I am fortunate to be advised by [Qiang Liu](https://john-qiangliu.tech/) and [Liang Wang](http://www.cbsr.ia.ac.cn/users/liangwang/).
+I am a Ph.D. student at the [Beihang University](https://scse.buaa.edu.cn/), School of Computer Science and Engineering. 
+I am a master student at the [Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/) (expected to graduate in June 2024),
+advised by Prof [Kan Liu](http://www.nlpr.ia.ac.cn/cip/~liukang/index.html).
+Additionally, 
 
-My research interests lie in the field of natural language processing (NLP), with a focus on fake information detection, including fact verification and out-of-context detection. Currently, I am highly intrigued by exploring the intersection of Large Language Models (LLMs) and AI safety.
+My research interests lie in the field of natural language processing (NLP), with a focus on fake information detection, including Question Answering and Knowledge Editing. Currently, I am highly intrigued by exploring the intersection of Large Language Models (LLMs) and AI safety.
 
-I have spent wonderful time at [BAAI](https://www.baai.ac.cn/english.html), and [NC State](https://dongkuanx27.github.io/page-lab.html) as a research intern/assistant.
+I have spent wonderful time at [Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/) as a master student, advised by Prof [Kan Liu](http://www.nlpr.ia.ac.cn/cip/~liukang/index.html).
 
 <div style="border-left: 4px solid #ccc; padding-left: 20px; margin: 20px 0; font-style: italic;">
   "With a Ph.D. you will have a better chance of spending the rest of your life doing what you want to do, instead of what someone else wants you to do."
