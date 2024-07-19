@@ -20,13 +20,11 @@ redirect_from:
 Welcome to Yifan Wei (Eric)'s Personal Homepage!
 
 I am a Ph.D. student at the [Beihang University](https://scse.buaa.edu.cn/), School of Computer Science and Engineering. 
-I am a master student at the [Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/) (expected to graduate in June 2024),
-advised by Prof [Kan Liu](http://www.nlpr.ia.ac.cn/cip/~liukang/index.html).
-Additionally, 
-
-My research interests lie in the field of natural language processing (NLP), with a focus on fake information detection, including Question Answering and Knowledge Editing. Currently, I am highly intrigued by exploring the intersection of Large Language Models (LLMs) and AI safety.
-
 I have spent wonderful time at [Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/) as a master student, advised by Prof [Kan Liu](http://www.nlpr.ia.ac.cn/cip/~liukang/index.html).
+
+My research interests lie in the field of natural language processing (NLP), with a focus on Large Language Models (LLMs), including Question Answering and Knowledge Editing. Currently, I am highly intrigued by exploring the intersection of LLMs and AI safety.
+
+
 
 <div style="border-left: 4px solid #ccc; padding-left: 20px; margin: 20px 0; font-style: italic;">
   "With a Ph.D. you will have a better chance of spending the rest of your life doing what you want to do, instead of what someone else wants you to do."
@@ -34,11 +32,11 @@ I have spent wonderful time at [Institute of Automation, Chinese Academy of Scie
 </div>
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 A CIKM short paper has been accepted. Congratulations to [YiFan Wei](https://github.com/weiyifan1023)🎉.
+- *2024.07*: &nbsp;🎉🎉 Our paper "DAMe: Personalized Federated Social Event Detection with Dual Aggregation Mechanism" has been accepted to CIKM 2024!
+- *2024.07*: &nbsp;🎉🎉 Our paper "Does Knowledge Localization Hold True? Surprising Differences Between Entity and Relation Perspectives in Language Models" has been accepted to CIKM 2024 (short paper)!
 - *2024.05*: &nbsp;📢 Our paper "EX-FEVER: A Dataset for Multi-hop Explainable Fact Verification" has been accepted to ACL 2024 Findings!
-- *2023.12*: &nbsp;🎉 Our paper "Interpretable Multimodal Out-of-Context Detection with Soft Logic Regularization" has been accepted as an oral presentation at ICASSP 2024!
 - *2023.10*: &nbsp;🎉 Our paper "MenatQA: A New Dataset for Testing the Temporal Comprehension and Reasoning Abilities of Large Language Models" has been accepted to EMNLP 2023 Findings!
-
+- *2023.12*: &nbsp;🎉 Our paper "S3HQA: A Three-Stage Approach for Multi-hop Text-Table Hybrid Question Answering" has been accepted to ACL 2023 (short paper)!
 
 # 📝 Publications 
 
@@ -47,25 +45,11 @@ I have spent wonderful time at [Institute of Automation, Chinese Academy of Scie
 
 [EX-FEVER: A Dataset for Multi-hop Explainable Fact Verification](https://arxiv.org/pdf/2310.09754)
 
-**Huanhuan Ma**, Weizhi Xu, Yifan Wei, Liuji Chen, Liang Wang, Qiang Liu, Shu Wu, Liang Wang
+Huanhuan Ma, Weizhi Xu, **Yifan Wei**, Liuji Chen, Liang Wang, Qiang Liu, Shu Wu, Liang Wang
 
 [[ArXiv]](https://arxiv.org/pdf/2310.09754) [[Code]](https://github.com/dependentsign/EX-FEVER)
 
 We introduce a large scale Multi-hop fact checking dataset with textual explanations, which can be used to evaluate the explainability of fact verification models.
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2024 Oral</div><img src='images/icassp.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Interpretable Multimodal Out-of-Context Detection with Soft Logic Regularization](https://ieeexplore.ieee.org/abstract/document/10447706/)
-
-**Huanhuan Ma<sup>\*</sup>**, Jinghao Zhang<sup>\*</sup>, Qiang Liu, Shu Wu, Liang Wang
-
-**IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024**
-
-We introduce a novel multimodal out-of-context detection framework with soft logic regularization, which can effectively detect out-of-context information with interpretability.
 
 </div>
 </div>
@@ -76,7 +60,7 @@ We introduce a novel multimodal out-of-context detection framework with soft log
 
 [MenatQA: A New Dataset for Testing the Temporal Comprehension and Reasoning Abilities of Large Language Models](https://aclanthology.org/2023.findings-emnlp.100/)
 
-Yifan Wei, Yisong Su, **Huanhuan Ma**, Xiaoyan Yu, Fangyu Lei, Yuanzhe Zhang, Jun Zhao, Kang Liu
+**Yifan Wei**, Yisong Su, Huanhuan Ma, Xiaoyan Yu, Fangyu Lei, Yuanzhe Zhang, Jun Zhao, Kang Liu
 
 [[PDF]](https://aclanthology.org/2023.findings-emnlp.100.pdf) [[ArXiv]](https://arxiv.org/pdf/2310.05157) [[Code]](https://github.com/weiyifan1023/MenatQA) 
 
@@ -93,7 +77,7 @@ We construct Multiple Sensitive Factors Time QA (MenatQA), which encompasses thr
 
 [Assessing knowledge editing in language models via relation perspective](https://arxiv.org/abs/2311.09053)
 
-Yifan Wei, Xiaoyan Yu, **Huanhuan Ma**, Fangyu Lei, Yixuan Weng, Ran Song, Kang Liu
+**Yifan Wei**, Xiaoyan Yu, Huanhuan Ma, Fangyu Lei, Yixuan Weng, Ran Song, Kang Liu
 
 [[PDF]](https://arxiv.org/pdf/2311.09053) [[ArXiv]](https://arxiv.org/pdf/2311.09053) [[Code]](https://github.com/weiyifan1023/RaKE) 
 
@@ -104,13 +88,13 @@ Yifan Wei, Xiaoyan Yu, **Huanhuan Ma**, Fangyu Lei, Yixuan Weng, Ran Song, Kang 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DMBD 2022</div><img src='images/dmbd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Multi-Cause Learning for Diagnosis Prediction](https://link.springer.com/chapter/10.1007/978-981-19-9297-1_23)
+[S3HQA: A Three-Stage Approach for Multi-hop Text-Table Hybrid Question Answering](https://aclanthology.org/2023.acl-short.147/)
 
-Liping Wang, Qiang Liu, **Huanhuan Ma**, Shu Wu, Liang Wang
+Fangyu Lei, Xiang Li, **Yifan Wei**, Shizhu He, Yiming Huang, Jun Zhao, Kang Liu
 
-Data Mining and Big Data (DMBD) 2022
+**Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics**
 
-[[PDF]](_data/dmbd.pdf)
+[[PDF]](https://aclanthology.org/2023.acl-short.147.pdf)  [[Code]](https://github.com/lfy79001/S3HQA)
 
 </div>
 </div>
@@ -118,20 +102,19 @@ Data Mining and Big Data (DMBD) 2022
 
 # 🚀 Projects
 
-- [Awesome-LLM-based-Evaluators](https://github.com/dependentsign/Awesome-LLM-based-Evaluators): A curated list of LLM-based evaluators for various NLP tasks. ![GitHub stars](https://img.shields.io/github/stars/dependentsign/Awesome-LLM-based-Evaluators?style=social)
+- [TableQAKit](https://github.com/lfy79001/TableQAKit): A Toolkit for Table-based Question Answering. ![GitHub stars](https://img.shields.io/github/stars/lfy79001/TableQAKit?style=social)
 
 # 📖 Educations
-- *2021.09 - 2024.07*, M.S. in Artificial Intelligence, Institute of Automation, Chinese Academy of Sciences. Advisors: Prof. Liang Wang and Prof. Qiang Liu.
+- *2021.09 - 2024.07*, M.S. in Artificial Intelligence, Institute of Automation, Chinese Academy of Sciences. Advisors: Prof. Kang Liu and Prof. Jun Zhao.
 
-- *2016.09 - 2020.07*, B.E. in Software Engineering, Zhengzhou University. 
-
+- *2024.09 - *, Ph.D. at the School of Computer Science and Engineering, Beihang University.
+   
 # 💻 Internships
 
-- *2024.07 - Present*: Research Intern, [BAAI](https://www.baai.ac.cn/english.html), Beijing, China.
-- *2023.12 - Present*: Research Assistant, [NC State University, Generative Intelligent Computing (GIC) Lab](https://dongkuanx27.github.io/page-lab.html), NC, USA.
 
 # 📅 Academic Services
 
 ## 📖 Reviewers
+- Annual Meeting of the Association for Computational Linguistics 2023, 2024, Reviewer
 - Annual Conference on Neural Information Processing Systems (NeurIPS) Dataset&Benchmark track 2023, Reviewer
 - ACM International Conference on Information and Knowledge Management (CIKM) 2024, PC member
