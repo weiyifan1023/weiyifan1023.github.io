@@ -40,7 +40,7 @@ My research interests lie in the field of natural language processing (NLP), wit
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 Findings</div><img src='images/exfever.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/exfever.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [EX-FEVER: A Dataset for Multi-hop Explainable Fact Verification](https://arxiv.org/pdf/2310.09754)
@@ -55,7 +55,7 @@ We introduce a large scale Multi-hop fact checking dataset with textual explanat
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023 Findings</div><img src='images/menatqa.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023</div><img src='images/menatqa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MenatQA: A New Dataset for Testing the Temporal Comprehension and Reasoning Abilities of Large Language Models](https://aclanthology.org/2023.findings-emnlp.100/)
@@ -85,7 +85,7 @@ We construct Multiple Sensitive Factors Time QA (MenatQA), which encompasses thr
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DMBD 2022</div><img src='images/dmbd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/dmbd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [S3HQA: A Three-Stage Approach for Multi-hop Text-Table Hybrid Question Answering](https://aclanthology.org/2023.acl-short.147/)
