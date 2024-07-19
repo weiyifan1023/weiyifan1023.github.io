@@ -137,7 +137,7 @@ Fangyu Lei, Xiang Li, **Yifan Wei**, Shizhu He, Yiming Huang, Jun Zhao, Kang Liu
 # 📖 Educations
 - *2021.09 - 2024.07*, M.S. in Artificial Intelligence, Institute of Automation, Chinese Academy of Sciences. Advisors: Prof. Kang Liu and Prof. Jun Zhao.
 
-- *2024.09 - *, Ph.D. at the School of Computer Science and Engineering, Beihang University.
+- 2024.09 - , Ph.D. candidate at the School of Computer Science and Engineering, Beihang University.
    
 # 💻 Internships
 
