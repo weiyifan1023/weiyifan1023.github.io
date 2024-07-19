@@ -55,7 +55,7 @@ We introduce a large scale Multi-hop fact checking dataset with textual explanat
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/neeko.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/neeko.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Neeko: Leveraging Dynamic LoRA for Efficient Multi-Character Role-Playing Agent](https://arxiv.org/abs/2402.13717)
@@ -101,7 +101,7 @@ We construct Multiple Sensitive Factors Time QA (MenatQA), which encompasses thr
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/dmbd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/s3hqa.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [S3HQA: A Three-Stage Approach for Multi-hop Text-Table Hybrid Question Answering](https://aclanthology.org/2023.acl-short.147/)
