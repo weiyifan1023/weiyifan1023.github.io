@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+<span class='show_paper_citations' data='MgsexesAAAAJ:ALROH1vI_8AC'></span>
 Welcome to Xiaoyan Yu (Sunny)'s Personal Homepage!
 
 I am a Ph.D. student at the [Beijing Institute of Technology (BIT)](https://www.bit.edu.cn/), School of Computer Science and Engineering. 
@@ -37,7 +37,6 @@ To date, I have authored two papers as the first author, which have been publish
 
 # 📝 Publications 
 
-<span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/neeko.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
