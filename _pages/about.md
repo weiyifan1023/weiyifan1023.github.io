@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-<span class='show_paper_citations' data='MgsexesAAAAJ:ALROH1vI_8AC'></span>
+<span class='show_paper_citations' data='MgsexesAAAAJ:YsMSGLbcyi4C'></span>
 Welcome to Xiaoyan Yu (Sunny)'s Personal Homepage!
 
 I am a Ph.D. student at the [Beijing Institute of Technology (BIT)](https://www.bit.edu.cn/), School of Computer Science and Engineering. 
