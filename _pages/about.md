@@ -16,6 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+<span class='show_paper_citations' data='MgsexesAAAAJ:ALROH1vI_8AC'>
 
 Welcome to Xiaoyan Yu (Sunny)'s Personal Homepage!
 
