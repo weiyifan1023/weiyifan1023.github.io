@@ -20,7 +20,7 @@ redirect_from:
 
 Welcome to Xiaoyan Yu (Sunny)'s Personal Homepage!
 
-I am a Ph.D. student at the[Beijing Institute of Technology (BIT)](https://www.bit.edu.cn/), School of Computer Science and Engineering. 
+I am a Ph.D. student at the [Beijing Institute of Technology (BIT)](https://www.bit.edu.cn/), School of Computer Science and Engineering. 
 I received my master's degree at the University of Chinese Academy of Sciences as a master's student, advised by Prof. Yongbin Zhou. During this time, I had a wonderful experience at the Institute of Automation, Chinese Academy of Sciences, under the guidance of Kang Liu and Shizhu He.
 
 My research interests lie in the field of natural language processing (NLP), with a focus on Question Answering. Currently, I am highly intrigued by exploring the intersection of LLMs (Large Language Models) and data mining.
