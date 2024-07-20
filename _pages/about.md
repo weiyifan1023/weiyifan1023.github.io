@@ -24,6 +24,10 @@ I have spent wonderful time at [Institute of Automation, Chinese Academy of Scie
 
 My research interests lie in the field of natural language processing (NLP), with a focus on Question Answering. Currently, I am highly intrigued by exploring the intersection of LLMs and data mining.
 I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=MgsexesAAAAJ'>google scholar citations <strong><span id='total_cit'>400+</span></strong>
+<a href='https://scholar.google.com/citations?user=MgsexesAAAAJ'>
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fscholar.googleusercontent.com%2Fcitations%3Fuser%3DMgsexesAAAAJ%26view_op%3Dget_badge" alt="Google Scholar Citations">
+</a>
+
 </a>
 (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=MgsexesAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fscholar.googleusercontent.com%2Fcitations%3Fuser%3DYOUR_GOOGLE_SCHOLAR_ID%26view_op%3Dget_badge" alt="Google Scholar Citations">
 </a>).
