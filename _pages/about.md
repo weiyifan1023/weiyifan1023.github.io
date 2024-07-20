@@ -19,21 +19,16 @@ redirect_from:
 
 Welcome to Xiaoyan Yu (Sunny)'s Personal Homepage!
 
-I am a Ph.D. student at the [Beijing Institute of Technology (BIT)](https://www.bit.edu.cn/), School of Computer Science and Engineering. 
-I have spent wonderful time at [Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/) as a master student, advised by Prof [Kan Liu](http://www.nlpr.ia.ac.cn/cip/~liukang/index.html).
+I am a Ph.D. student at the[Beijing Institute of Technology (BIT)](https://www.bit.edu.cn/), School of Computer Science and Engineering. 
+I received my master's degree at the University of Chinese Academy of Sciences as a master's student, advised by Prof. Yongbin Zhou. During this time, I had a wonderful experience at the Institute of Automation, Chinese Academy of Sciences, under the guidance of Kang Liu and Shizhu He.
 
-My research interests lie in the field of natural language processing (NLP), with a focus on Question Answering. Currently, I am highly intrigued by exploring the intersection of LLMs and data mining.
-<a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
+My research interests lie in the field of natural language processing (NLP), with a focus on Question Answering. Currently, I am highly intrigued by exploring the intersection of LLMs (Large Language Models) and data mining.
+To date, I have authored two papers as the first author, which have been published at AI conferences including the CIKM, EMNLP, with total google scholar <a href='https://scholar.google.com/citations?user=MgsexesAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
+<div style="border-left: 4px solid #ccc; padding-left: 20px; margin: 20px 0; font-style: italic;"> "With a Ph.D., you will have a better chance of spending the rest of your life doing what you want to do, instead of what someone else wants you to do." <div style="text-align: right; margin-top: 10px;">— William Lipscomb</div> </div>
 
 
-<div style="border-left: 4px solid #ccc; padding-left: 20px; margin: 20px 0; font-style: italic;">
-  "With a Ph.D. you will have a better chance of spending the rest of your life doing what you want to do, instead of what someone else wants you to do."
-  <div style="text-align: right; margin-top: 10px;">— William Lipscomb</div>
-</div>
 
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 Our paper "DAMe: Personalized Federated Social Event Detection with Dual Aggregation Mechanism" has been accepted to CIKM 2024!
