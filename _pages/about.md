@@ -20,10 +20,11 @@ redirect_from:
 Welcome to Yifan Wei (Eric)'s Personal Homepage!
 
 I am a Ph.D. student at the [Beihang University](https://scse.buaa.edu.cn/), School of Computer Science and Engineering. 
-I have spent wonderful time at [Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/) as a master student, advised by Prof [Kan Liu](http://www.nlpr.ia.ac.cn/cip/~liukang/index.html).
+I have spent wonderful time at [Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/) as a master student, advised by Prof [Kang Liu](http://www.nlpr.ia.ac.cn/cip/~liukang/index.html).
 
 My research interests lie in the field of natural language processing (NLP), with a focus on Large Language Models (LLMs), including Question Answering and Knowledge Editing. Currently, I am highly intrigued by exploring the intersection of LLMs and AI safety.
-To date, I have authored three papers as the first author, which have been published at AI conferences including the CIKM, EMNLP, and AAAI, with total google scholar <a href='https://scholar.google.com/citations?user=Kmp8kVMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+To date, I have authored three papers as the first author, which have been published at AI conferences including the CIKM, EMNLP, and AAAI,
+with total <a href='https://scholar.google.com/citations?user=Kmp8kVMAAAAJ'>google scholar citations <strong><span id='total_cit'>200</span></strong></a>(<a href='https://scholar.google.com/citations?user=Kmp8kVMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 
@@ -75,7 +76,7 @@ We present Neeko, an innovative framework designed for efficient multiple charac
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023</div><img src='images/menatqa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MenatQA: A New Dataset for Testing the Temporal Comprehension and Reasoning Abilities of Large Language Models](https://aclanthology.org/2023.findings-emnlp.100/)
+[MenatQA: A New Dataset for Testing the Temporal Comprehension and Reasoning Abilities of Large Language Models](https://aclanthology.org/2023.findings-emnlp.100/)<strong><span class='show_paper_citations' data='Kmp8kVMAAAAJ:LkGwnXOMwfcC'></span></strong>
 
 **Yifan Wei**, Yisong Su, Huanhuan Ma, Xiaoyan Yu, Fangyu Lei, Yuanzhe Zhang, Jun Zhao, Kang Liu
 
