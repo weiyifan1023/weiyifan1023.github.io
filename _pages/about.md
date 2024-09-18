@@ -36,6 +36,36 @@ To date, I have authored two papers as the first author, which have been publish
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2024</div><img src='images/dame.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DAMe: Personalized Federated Social Event Detection with Dual Aggregation Mechanism](https://arxiv.org/pdf/2409.00617)
+
+Xiaoyan Yu, **Yifan Wei**, Pu Li, Shuaishuai Zhou, Hao Peng, Li Sun, Liehuang Zhu, Philip S Yu
+
+[[ArXiv]](https://arxiv.org/abs/2409.00614) [[Code]](https://github.com/XiaoyanWork/DAMe) 
+
+This paper proposes a personalized federated learning framework with a dual aggregation mechanism for social event detection, namely DAMe. 
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2024</div><img src='images/rake.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Does Knowledge Localization Hold True? Surprising Differences Between Entity and Relation Perspectives in Language Models](https://arxiv.org/pdf/2409.00617)
+
+**Yifan Wei**, Xiaoyan Yu, Yixuan Weng, Huanhuan Ma, Yuanzhe Zhang, Jun Zhao, Kang Liu
+
+[[ArXiv]](https://arxiv.org/pdf/2409.00617) [[Code]](https://github.com/weiyifan1023/RaKE) 
+
+This study investigates the differences between entity and relational knowledge through knowledge editing. Our findings reveal that entity and relational knowledge cannot be directly transferred or mapped to each other.
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/neeko.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
