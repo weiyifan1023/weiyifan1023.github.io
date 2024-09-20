@@ -34,6 +34,7 @@ with total <a href='https://scholar.google.com/citations?user=Kmp8kVMAAAAJ'>goog
 </div>
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 Our paper "Neeko: Leveraging Dynamic LoRA for Efficient Multi-Character Role-Playing Agent" has been accepted to EMNLP 2024!
 - *2024.07*: &nbsp;🎉🎉 Our paper "DAMe: Personalized Federated Social Event Detection with Dual Aggregation Mechanism" has been accepted to CIKM 2024!
 - *2024.07*: &nbsp;🎉🎉 Our paper "Does Knowledge Localization Hold True? Surprising Differences Between Entity and Relation Perspectives in Language Models" has been accepted to CIKM 2024 (short paper)!
 - *2024.05*: &nbsp;📢 Our paper "EX-FEVER: A Dataset for Multi-hop Explainable Fact Verification" has been accepted to ACL 2024 Findings!
@@ -86,7 +87,7 @@ We introduce a large scale Multi-hop fact checking dataset with textual explanat
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/neeko.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/neeko.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Neeko: Leveraging Dynamic LoRA for Efficient Multi-Character Role-Playing Agent](https://arxiv.org/abs/2402.13717)
