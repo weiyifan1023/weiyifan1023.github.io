@@ -43,6 +43,21 @@ with total <a href='https://scholar.google.com/citations?user=Kmp8kVMAAAAJ'>goog
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/neeko.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Neeko: Leveraging Dynamic LoRA for Efficient Multi-Character Role-Playing Agent](https://arxiv.org/abs/2402.13717)
+
+Xiaoyan Yu, Tongxu Luo, **Yifan Wei**, Fangyu Lei, Yiming Huang, Hao Peng, Liehuang Zhu
+
+[[PDF]](https://arxiv.org/pdf/2402.13717) [[ArXiv]](https://arxiv.org/abs/2402.13717) [[Code]](https://github.com/weiyifan1023/Neeko) 
+
+
+We present Neeko, an innovative framework designed for efficient multiple characters imitation. Unlike existing methods, Neeko employs a dynamic low-rank adapter (LoRA) strategy, enabling it to adapt seamlessly to diverse characters. 
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2024</div><img src='images/dame.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -86,21 +101,6 @@ We introduce a large scale Multi-hop fact checking dataset with textual explanat
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/neeko.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Neeko: Leveraging Dynamic LoRA for Efficient Multi-Character Role-Playing Agent](https://arxiv.org/abs/2402.13717)
-
-Xiaoyan Yu, Tongxu Luo, **Yifan Wei**, Fangyu Lei, Yiming Huang, Hao Peng, Liehuang Zhu
-
-[[PDF]](https://arxiv.org/pdf/2402.13717) [[ArXiv]](https://arxiv.org/abs/2402.13717) [[Code]](https://github.com/weiyifan1023/Neeko) 
-
-
-We present Neeko, an innovative framework designed for efficient multiple characters imitation. Unlike existing methods, Neeko employs a dynamic low-rank adapter (LoRA) strategy, enabling it to adapt seamlessly to diverse characters. 
-
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023</div><img src='images/menatqa.png' alt="sym" width="100%"></div></div>
