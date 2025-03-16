@@ -34,14 +34,31 @@ with total <a href='https://scholar.google.com/citations?user=Kmp8kVMAAAAJ'>goog
 </div>
 
 # 🔥 News
+- *2025.2*: &nbsp;🎉 Our paper "Towards Effective, Efficient and Unsupervised Social Event Detection in the Hyperbolic Space" has been accepted to AAAI 2025!
 - *2024.09*: &nbsp;🎉🎉 Our paper "Neeko: Leveraging Dynamic LoRA for Efficient Multi-Character Role-Playing Agent" has been accepted to EMNLP 2024!
 - *2024.07*: &nbsp;🎉🎉 Our paper "DAMe: Personalized Federated Social Event Detection with Dual Aggregation Mechanism" has been accepted to CIKM 2024!
 - *2024.07*: &nbsp;🎉🎉 Our paper "Does Knowledge Localization Hold True? Surprising Differences Between Entity and Relation Perspectives in Language Models" has been accepted to CIKM 2024 (short paper)!
 - *2024.05*: &nbsp;📢 Our paper "EX-FEVER: A Dataset for Multi-hop Explainable Fact Verification" has been accepted to ACL 2024 Findings!
 - *2023.10*: &nbsp;🎉 Our paper "MenatQA: A New Dataset for Testing the Temporal Comprehension and Reasoning Abilities of Large Language Models" has been accepted to EMNLP 2023 Findings!
-- *2023.12*: &nbsp;🎉 Our paper "S3HQA: A Three-Stage Approach for Multi-hop Text-Table Hybrid Question Answering" has been accepted to ACL 2023 (short paper)!
+
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/HyperSED.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Towards Effective, Efficient and Unsupervised Social Event Detection in the Hyperbolic Space](https://arxiv.org/abs/2412.10712)
+
+Xiaoyan Yu, **Yifan Wei**, Shuaishuai Zhou, Liehuang Zhu, Philip S. Yu
+
+[[PDF]](https://arxiv.org/pdf/2412.10712) [[ArXiv]](https://arxiv.org/abs/2412.10712) [[Code]](https://github.com/XiaoyanWork/HyperSED) 
+
+
+We introduce HyperSED, an effective and efficient unsupervised framework for social event detection, which exploits the benefits of graph learning in the hyperbolic space and structural information to achieve event detection.
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/neeko.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
