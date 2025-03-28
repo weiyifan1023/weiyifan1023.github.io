@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yifan Wei"
 description              : "Welcome to my website!"
-repository               : "https://github.com/weiyifan1023"
+repository               : "weiyifan1023/weiyifan1023.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -27,8 +27,8 @@ author:
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=Kmp8kVMAAAAJ"
-  email            : "weiyifan2021@ia.ac.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=Kmp8kVMAAAAJ"
+  email            : "weiyifan21@mails.ucas.ac.cn"
   researchgate     :
   uri              :
   bitbucket        :
