@@ -65,7 +65,7 @@ We introduce HyperSED, an effective and efficient unsupervised framework for soc
 
 [Neeko: Leveraging Dynamic LoRA for Efficient Multi-Character Role-Playing Agent](https://arxiv.org/abs/2402.13717)
 
-Xiaoyan Yu, Tongxu Luo, **Yifan Wei**, Fangyu Lei, Yiming Huang, Hao Peng, Liehuang Zhu
+Xiaoyan Yu, Tongxu Luo, **Yifan Wei***, Fangyu Lei, Yiming Huang, Hao Peng, Liehuang Zhu
 
 [[PDF]](https://arxiv.org/pdf/2402.13717) [[ArXiv]](https://arxiv.org/abs/2402.13717) [[Code]](https://github.com/weiyifan1023/Neeko) 
 
