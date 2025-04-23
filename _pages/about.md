@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome to Yifan Wei (Eric)'s Personal Homepage!
 
-I am a Ph.D. student at the [Beihang University](https://scse.buaa.edu.cn/), School of Computer Science and Engineering. 
+I am a PhD student at the [Beihang University](https://scse.buaa.edu.cn/), School of Computer Science and Engineering. 
 I have spent wonderful time at [Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/) as a master student, advised by Prof [Kang Liu](http://www.nlpr.ia.ac.cn/cip/~liukang/index.html).
 
 My research interests lie in the field of natural language processing (NLP), with a focus on Large Language Models (LLMs), including Question Answering and Knowledge Editing. Currently, I am highly intrigued by exploring the intersection of LLMs and AI safety.
