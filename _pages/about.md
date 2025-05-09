@@ -27,7 +27,6 @@ To date, I have authored three papers as the first author, which have been publi
 with total <a href='https://scholar.google.com/citations?user=Kmp8kVMAAAAJ'>google scholar citations </a> (<a href='https://scholar.google.com/citations?user=Kmp8kVMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
-
 <div style="border-left: 4px solid #ccc; padding-left: 20px; margin: 20px 0; font-style: italic;">
   "With a Ph.D. you will have a better chance of spending the rest of your life doing what you want to do, instead of what someone else wants you to do."
   <div style="text-align: right; margin-top: 10px;">— William Lipscomb</div>
