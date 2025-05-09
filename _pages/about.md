@@ -34,6 +34,7 @@ with total <a href='https://scholar.google.com/citations?user=Kmp8kVMAAAAJ'>goog
 </div>
 
 # 🔥 News
+- *2025.4*: &nbsp;🎉 Our paper "SetKE: Knowledge Editing for Knowledge Elements Overlap" has been accepted to IJCAI 2025!
 - *2025.2*: &nbsp;🎉 Our paper "Towards Effective, Efficient and Unsupervised Social Event Detection in the Hyperbolic Space" has been accepted to AAAI 2025!
 - *2024.09*: &nbsp;🎉🎉 Our paper "Neeko: Leveraging Dynamic LoRA for Efficient Multi-Character Role-Playing Agent" has been accepted to EMNLP 2024!
 - *2024.07*: &nbsp;🎉🎉 Our paper "DAMe: Personalized Federated Social Event Detection with Dual Aggregation Mechanism" has been accepted to CIKM 2024!
@@ -43,6 +44,20 @@ with total <a href='https://scholar.google.com/citations?user=Kmp8kVMAAAAJ'>goog
 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/SetKE' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SetKE: Knowledge Editing for Knowledge Elements Overlap](https://arxiv.org/abs/2504.20972)
+
+**Yifan Wei**, Xiaoyan Yu, Ran Song, Angsheng Li
+
+[[PDF]](https://arxiv.org/abs/2504.20972) [[ArXiv]](https://arxiv.org/abs/2504.20972) [[Code]](https://github.com/weiyifan1023/SetKE) 
+
+we propose a new formulation, Knowledge Set Editing (KSE), and introduce SetKE, a method that edits sets of triplets simultaneously. 
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/HyperSED.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
