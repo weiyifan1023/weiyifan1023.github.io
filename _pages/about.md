@@ -44,6 +44,20 @@ with total <a href='https://scholar.google.com/citations?user=Kmp8kVMAAAAJ'>goog
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/senator.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Structural Entropy Guided Agent for Detecting and Repairing Knowledge Deficiencies in LLMs](https://arxiv.org/abs/2505.07184)
+
+**Yifan Wei**, Xiaoyan Yu, Tengfei Pang, Angsheng Li, Li Du
+
+[[PDF]](https://arxiv.org/abs/2505.07184) [[ArXiv]](https://arxiv.org/abs/2505.07184) [[Code]](https://github.com/weiyifan1023/senator) 
+
+we propose a novel Structural Entropy-guided Knowledge Navigator (SENATOR) framework that addresses the intrinsic knowledge deficiencies of LLMs.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/SetKE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
