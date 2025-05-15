@@ -33,6 +33,7 @@ with total <a href='https://scholar.google.com/citations?user=Kmp8kVMAAAAJ'>goog
 </div>
 
 # 🔥 News
+- *2025.4*: &nbsp;📢📢📢 Our new paper "Structural Entropy Guided Agent for Detecting and Repairing Knowledge Deficiencies in LLMs" is now available on arXiv!
 - *2025.4*: &nbsp;🎉 Our paper "SetKE: Knowledge Editing for Knowledge Elements Overlap" has been accepted to IJCAI 2025!
 - *2025.2*: &nbsp;🎉 Our paper "Towards Effective, Efficient and Unsupervised Social Event Detection in the Hyperbolic Space" has been accepted to AAAI 2025!
 - *2024.09*: &nbsp;🎉🎉 Our paper "Neeko: Leveraging Dynamic LoRA for Efficient Multi-Character Role-Playing Agent" has been accepted to EMNLP 2024!
