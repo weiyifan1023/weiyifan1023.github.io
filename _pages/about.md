@@ -210,8 +210,9 @@ Fangyu Lei, Xiang Li, **Yifan Wei**, Shizhu He, Yiming Huang, Jun Zhao, Kang Liu
 
 # 🚀 Projects
 
-- [TableQAKit](https://github.com/lfy79001/TableQAKit): A Toolkit for Table-based Question Answering. ![GitHub stars](https://img.shields.io/github/stars/lfy79001/TableQAKit?style=social)
 - [Neeko](https://github.com/weiyifan1023/Neeko): Leveraging Dynamic LoRA for Efficient Multi-Character Role-Playing Agent. ![GitHub stars](https://img.shields.io/github/stars/weiyifan1023/Neeko?style=social)
+- [TableQAKit](https://github.com/lfy79001/TableQAKit): A Toolkit for Table-based Question Answering. ![GitHub stars](https://img.shields.io/github/stars/lfy79001/TableQAKit?style=social)
+
 
 # 📖 Educations
 - *2021.09 - 2024.07*, M.S. in Artificial Intelligence, Institute of Automation, Chinese Academy of Sciences. Advisors: Prof. Kang Liu and Prof. Jun Zhao.
