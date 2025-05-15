@@ -211,6 +211,7 @@ Fangyu Lei, Xiang Li, **Yifan Wei**, Shizhu He, Yiming Huang, Jun Zhao, Kang Liu
 # 🚀 Projects
 
 - [TableQAKit](https://github.com/lfy79001/TableQAKit): A Toolkit for Table-based Question Answering. ![GitHub stars](https://img.shields.io/github/stars/lfy79001/TableQAKit?style=social)
+- [Neeko](https://github.com/weiyifan1023/Neeko): Leveraging Dynamic LoRA for Efficient Multi-Character Role-Playing Agent. ![GitHub stars](https://img.shields.io/github/stars/weiyifan1023/Neeko?style=social)
 
 # 📖 Educations
 - *2021.09 - 2024.07*, M.S. in Artificial Intelligence, Institute of Automation, Chinese Academy of Sciences. Advisors: Prof. Kang Liu and Prof. Jun Zhao.
@@ -218,11 +219,14 @@ Fangyu Lei, Xiang Li, **Yifan Wei**, Shizhu He, Yiming Huang, Jun Zhao, Kang Liu
 - 2024.09 - , Ph.D. candidate at the School of Computer Science and Engineering, Beihang University.
    
 # 💻 Internships
-
+- *2023 - 2024*,   [NOETIX](https://noetixrobotics.com/)
+- *2024 - 2025*,   [BAAI](https://www.baai.ac.cn/)
 
 # 📅 Academic Services
 
 ## 📖 Reviewers
-- Annual Meeting of the Association for Computational Linguistics 2023, 2024, Reviewer
-- Annual Conference on Neural Information Processing Systems (NeurIPS) Dataset&Benchmark track 2023, Reviewer
-- ACM International Conference on Information and Knowledge Management (CIKM) 2024, PC member
+- Annual Meeting of the Association for Computational Linguistics (ACL,EMNLP,NAACL), Reviewer
+- Annual Conference on Neural Information Processing Systems (NeurIPS), Reviewer
+- ACM International Conference on Information and Knowledge Management (CIKM), PC member
+- International Joint Conference on Artificial Intelligence (IJCAI), PC member
+- The Association for the Advancement of Artificial Intelligence (AAAI), PC member
