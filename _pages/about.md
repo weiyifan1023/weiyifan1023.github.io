@@ -20,7 +20,7 @@ redirect_from:
 Welcome to Yifan Wei (Eric)'s Personal Homepage!
 
 I am currently pursuing my PhD in the School of Computer Science and Engineering at [Beihang University](https://scse.buaa.edu.cn/), under the supervision of Professor Angsheng Li.
-I am also co-supervised by Professor [Yang Feng](https://people.ucas.edu.cn/~yangfeng?language=en  ) from the Institute of Computing Technology, Chinese Academy of Sciences.
+I am also co-supervised by Professor [Yang Feng](https://people.ucas.edu.cn/~yangfeng?language=en) from the Institute of Computing Technology, Chinese Academy of Sciences.
 I had a wonderful time at the [Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/) as a master's student, where I was advised by Professor [Kang Liu](http://www.nlpr.ia.ac.cn/cip/~liukang/index.html) and Professor [Jun Zhao](https://people.ucas.ac.cn/~zhaojun).
 
 
