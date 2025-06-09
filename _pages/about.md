@@ -21,7 +21,7 @@ Welcome to Yifan Wei (Eric)'s Personal Homepage!
 
 I am currently pursuing my PhD in the School of Computer Science and Engineering at [Beihang University](https://scse.buaa.edu.cn/), under the supervision of Professor Angsheng Li.
 I am also co-supervised by Professor [Yang Feng](https://people.ucas.edu.cn/~yangfeng?language=en) from the Institute of Computing Technology, Chinese Academy of Sciences.
-I had a wonderful time at the [Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/) as a master's student, where I was advised by Professor [Kang Liu](http://www.nlpr.ia.ac.cn/cip/~liukang/index.html) and Professor [Jun Zhao](https://people.ucas.ac.cn/~zhaojun).
+I had a wonderful time at the [Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/) as a master's student, where I was advised by Professor [Kang Liu](http://www.nlpr.ia.ac.cn/cip/~liukang/index.html) and co-advised by Professor [Jun Zhao](https://people.ucas.ac.cn/~zhaojun).
 
 
 My research interests lie in the field of natural language processing (NLP), with a focus on Large Language Models (LLMs), including Question Answering and Knowledge Editing. Currently, I am highly intrigued by exploring the intersection of LLMs and AI safety.
