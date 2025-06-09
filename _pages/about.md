@@ -25,7 +25,7 @@ I had a wonderful time at the [Institute of Automation, Chinese Academy of Scien
 
 
 My research interests lie in the field of natural language processing (NLP), with a focus on Large Language Models (LLMs), including Question Answering and Knowledge Editing. Currently, I am highly intrigued by exploring the intersection of LLMs and AI safety.
-To date, I have authored three papers as the first author, which have been published at AI conferences including the CIKM, EMNLP, and AAAI,
+To date, I have authored three papers as the first author, which have been published at AI conferences including the CIKM, EMNLP, IJCAI, and AAAI,
 with total <a href='https://scholar.google.com/citations?user=Kmp8kVMAAAAJ'>google scholar citations </a> (<a href='https://scholar.google.com/citations?user=Kmp8kVMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
