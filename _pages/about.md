@@ -29,14 +29,15 @@ To date, I have authored three papers as the first author, which have been publi
 with total <a href='https://scholar.google.com/citations?user=Kmp8kVMAAAAJ'>google scholar citations </a> (<a href='https://scholar.google.com/citations?user=Kmp8kVMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 <div style="border-left: 4px solid #aaa; background-color: #f9f9f9; padding: 20px 30px; margin: 30px 0; font-family: 'Georgia', serif; font-size: 18px; line-height: 1.6; color: #333;">
-  <p style="margin: 0 0 15px 0; font-style: italic;">
+  <p style="margin: 0 0 10px 0; font-style: italic;">
     “Perception brings meaning to sensation; thus, what it yields is not a perfect representation of the world, but an interpretation of it.”
   </p>
   <p style="margin: 0 0 10px 0; font-style: italic;">
     「知觉赋予感觉以意义，因此知觉产生的是对世界的解释，而不是对世界的完美表征。」
   </p>
-  <div style="text-align: right; font-weight: bold; margin-top: 15px;">— Philip G. Zimbardo</div>
+  <div style="text-align: right; font-weight: bold; margin-top: 12px;">— Philip G. Zimbardo</div>
 </div>
+
 
 
 # 🔥 News
