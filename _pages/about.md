@@ -30,8 +30,8 @@ with total <a href='https://scholar.google.com/citations?user=Kmp8kVMAAAAJ'>goog
 
 
 <div style="border-left: 4px solid #ccc; padding-left: 20px; margin: 20px 0; font-style: italic;">
-  "With a Ph.D. you will have a better chance of spending the rest of your life doing what you want to do, instead of what someone else wants you to do."
-  <div style="text-align: right; margin-top: 10px;">— William Lipscomb</div>
+  "Perception brings meaning to sensation, so perception produces and interpretation of the external world, not a perfect representation of it."
+  <div style="text-align: right; margin-top: 10px;"> "知觉赋予感觉以意义，因此知觉产生的是对世界的解释，而不是对世界的完美表征。"   ——— Philip G. Zimbardo</div>
 </div>
 
 # 🔥 News
